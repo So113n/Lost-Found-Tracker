@@ -1,0 +1,5 @@
+PyQt6 
+sqlite3 
+pillow 
+pyzbar 
+opencv-python
