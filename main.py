@@ -45,7 +45,7 @@ class Database:
 class LostTrackerApp(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Lost&Tracker")
+        self.setWindowTitle("Lost&Found Tracker")
         self.setGeometry(200, 100, 800, 500)
         self.setWindowIcon(QIcon("ARLogo.ico"))
         self.db = Database()
